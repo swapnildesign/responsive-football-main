@@ -1,0 +1,30 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+}
+
+section {
+    display: flex;
+    background-color: rgb(1, 1, 144);
+}
+
+.half-width {
+    width: 50%;
+    padding-top: 5%;
+    padding-left: 5%;
+    padding-right: 20%;
+    margin: 0px;
+    color: white;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.watch-live {
+    background: rgb(253, 88, 192);
+    text-decoration: none;
+    padding: 2px 5px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+}
